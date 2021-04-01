@@ -1,0 +1,27 @@
+
+    <!-- Principles Grid Section -->
+    <section id="principles">
+        <div class="container principles-flex-grid">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Principles</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="principles-flex-row">
+                {% for post in site.posts %}
+                    <div class="principles-flex-item principles-item">
+                        <a href="#principlesModal-{{ post.modal-id }}" class="principles-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                    <p>{{ post.title }}</p>
+                                </div>
+                            </div>
+                            <img src="img/principles/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                        </a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

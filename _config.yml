@@ -1,0 +1,32 @@
+# Site settings
+title: First Principles Of Fitness
+acronym: F.P.O.P
+email: your-email@domain.com
+#url: https://github.com/jeromelachaud/freelancer-theme
+description: "First Principles Of Fitness Desc"
+keywords: "fitness, exercise, nutrition"
+skills: "Coming soon"
+meta_author: Admin
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: First Principles Of Fitness
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

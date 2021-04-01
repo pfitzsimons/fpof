@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <link href="/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2021-04-01T15:19:47+01:00</updated>
+  <id>/</id>
+
+  
+    <title type="html">First Principles Of Fitness</title>
+  
+
+  
+    <subtitle>First Principles Of Fitness Desc</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">EXERCISE</title>
+      <link href="/" rel="alternate" type="text/html" title="EXERCISE" />
+      <published>2014-07-18T00:00:00+01:00</published>
+      <updated>2014-07-18T00:00:00+01:00</updated>
+      <id>/project-1</id>
+      <content type="html" xml:base="/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">DIET</title>
+      <link href="/" rel="alternate" type="text/html" title="DIET" />
+      <published>2014-07-17T00:00:00+01:00</published>
+      <updated>2014-07-17T00:00:00+01:00</updated>
+      <id>/project-2</id>
+      <content type="html" xml:base="/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">CONSISTENCY</title>
+      <link href="/" rel="alternate" type="text/html" title="CONSISTENCY" />
+      <published>2014-07-16T00:00:00+01:00</published>
+      <updated>2014-07-16T00:00:00+01:00</updated>
+      <id>/project-3</id>
+      <content type="html" xml:base="/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
